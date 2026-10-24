@@ -1,6 +1,82 @@
 [
   {
-    "nome": "esempio",
-    "slug": "esempio"
+    "nome": "Planner e agende stampabili",
+    "slug": "planner"
+  },
+  {
+    "nome": "Template Canva modificabili",
+    "slug": "canva"
+  },
+  {
+    "nome": "Template Notion",
+    "slug": "notion"
+  },
+  {
+    "nome": "Stampe da parete (wall art)",
+    "slug": "wallart"
+  },
+  {
+    "nome": "SVG, clipart e adesivi digitali",
+    "slug": "clipart"
+  },
+  {
+    "nome": "Materiale didattico e bambini",
+    "slug": "scuola"
+  },
+  {
+    "nome": "CV, lettere e portfolio",
+    "slug": "lavoro"
+  },
+  {
+    "nome": "Pacchetti social media",
+    "slug": "social"
+  },
+  {
+    "nome": "Inviti e feste",
+    "slug": "eventi"
+  },
+  {
+    "nome": "Budget e tracker Google Sheets",
+    "slug": "sheets"
+  },
+  {
+    "nome": "Template siti Jekyll",
+    "slug": "template"
+  },
+  {
+    "nome": "Moduli e plugin PHP",
+    "slug": "plugin"
+  },
+  {
+    "nome": "Modelli di testi",
+    "slug": "testi"
+  },
+  {
+    "nome": "Fogli Excel pronti",
+    "slug": "excel"
+  },
+  {
+    "nome": "Prompt e skill Claude",
+    "slug": "prompt"
+  },
+  {
+    "nome": "Workflow n8n",
+    "slug": "n8n"
+  },
+  {
+    "nome": "Ebook e guide",
+    "slug": "guide"
+  },
+  {
+    "nome": "Moduli e checklist stampabili",
+    "slug": "stampabili"
+  },
+  {
+    "nome": "Kit completi a prezzo scontato",
+    "slug": "bundle"
+  },
+  {
+    "nome": "Schemi e accessori per uncinetto",
+    "slug": "uncinetto"
   }
 ]

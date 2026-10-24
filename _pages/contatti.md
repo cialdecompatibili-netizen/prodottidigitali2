@@ -68,7 +68,7 @@ permalink: /contatti/
   </div>
   <div class="cf-campo">
     <label for="cf-msg">Cosa cerchi?</label>
-    <textarea id="cf-msg" name="messaggio" rows="5" maxlength="3000" required placeholder="Scrivici la tua richiesta."></textarea>
+    <textarea id="cf-msg" name="messaggio" rows="5" maxlength="3000" required placeholder="Esempio: vorrei il template per il sito del mio ristorante."></textarea>
   </div>
   <div style="position:absolute;left:-9999px;height:0;overflow:hidden" aria-hidden="true">
     <label for="cf-web">Non compilare</label>

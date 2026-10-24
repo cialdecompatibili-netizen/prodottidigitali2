@@ -5,7 +5,7 @@ ref: contatti
 lang: en
 locale: en
 tr: tradotto
-tr_hash: e563ea
+tr_hash: jilcev
 permalink: /en/contact/
 ---
 
@@ -72,7 +72,7 @@ permalink: /en/contact/
   </div>
   <div class="cf-campo">
     <label for="cf-msg">What are you looking for?</label>
-    <textarea id="cf-msg" name="messaggio" rows="5" maxlength="3000" required placeholder="Write your request here."></textarea>
+    <textarea id="cf-msg" name="messaggio" rows="5" maxlength="3000" required placeholder="Example: I would like the website template for my restaurant."></textarea>
   </div>
   <div style="position:absolute;left:-9999px;height:0;overflow:hidden" aria-hidden="true">
     <label for="cf-web">Do not fill in</label>

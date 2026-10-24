@@ -7,16 +7,13 @@
 # - La voce "Shop" sta qui ma si vede SOLO se in _config.yml ecommerce: true (il masthead la salta se spento).
 # - Per lingua: _data/i18n/<lingua>/navigation.yml sostituisce questo file (creato dall'admin).
 # =====================================================================================
+
 main:
   - title: "Home"
     url: /
-  - title: "Servizi"
-    url: /servizi/
+  - title: "Categorie"
+    url: /negozio/
   - title: "Blog"
     url: /blog/
-  - title: "Shop"
-    url: /negozio/
-  - title: "Chi siamo"
-    url: /chi-siamo/
   - title: "Contatti"
     url: /contatti/
