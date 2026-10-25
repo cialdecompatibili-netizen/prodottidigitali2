@@ -1475,6 +1475,538 @@
           "descrizione_completa": "CV templates you edit online, with nothing to install and no fonts to download.\nIncludes templates for Google Docs and Canva, editing instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
         }
       }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-primo-lavoro",
+      "nome": "CV per il primo lavoro e senza esperienza",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 590,
+      "descrizione": "Un CV che mette in risalto studi, competenze e attività extra quando manca l'esperienza.",
+      "descrizione_completa": "Un CV che mette in risalto studi, competenze e attività extra quando manca l'esperienza.\nInclude 3 layout in Word e Google Docs, formato A4, esempi di frasi per chi parte da zero.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CV template for a first job, no experience needed",
+          "descrizione": "A CV that highlights studies, skills and extra activities when work experience is missing.",
+          "descrizione_completa": "A CV that highlights studies, skills and extra activities when work experience is missing.\nIncludes 3 layouts for Word and Google Docs, A4 format, sample phrases for first-time applicants.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-studente-stage",
+      "nome": "CV per studenti e tirocini",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 590,
+      "descrizione": "Modello di CV chiaro per candidarsi a stage, tirocini e lavori part-time.",
+      "descrizione_completa": "Modello di CV chiaro per candidarsi a stage, tirocini e lavori part-time.\nInclude 2 layout in Word e Google Docs, sezione progetti e attività, istruzioni di modifica.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CV template for students and internships",
+          "descrizione": "A clear CV template for applying to internships, traineeships and part-time jobs.",
+          "descrizione_completa": "A clear CV template for applying to internships, traineeships and part-time jobs.\nIncludes 2 layouts for Word and Google Docs, a projects and activities section, editing instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-neolaureato",
+      "nome": "CV per neolaureati",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 690,
+      "descrizione": "Un CV per chi ha appena finito l'università: tesi, tirocini e competenze al posto giusto.",
+      "descrizione_completa": "Un CV per chi ha appena finito l'università: tesi, tirocini e competenze al posto giusto.\nInclude 2 layout in Word e Google Docs, sezione tesi e progetti, guida alla compilazione.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CV template for recent graduates",
+          "descrizione": "A CV for those who have just finished university: thesis, internships and skills in the right place.",
+          "descrizione_completa": "A CV for those who have just finished university: thesis, internships and skills in the right place.\nIncludes 2 layouts for Word and Google Docs, a thesis and projects section, a writing guide.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-minimal-foto",
+      "nome": "CV minimalista con foto",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 690,
+      "descrizione": "Un CV pulito con spazio per la foto, per chi vuole un aspetto ordinato e professionale.",
+      "descrizione_completa": "Un CV pulito con spazio per la foto, per chi vuole un aspetto ordinato e professionale.\nInclude modelli in Word e Canva, cornice foto, 3 combinazioni di colore.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Minimalist CV template with photo",
+          "descrizione": "A clean CV with room for a photo, for a tidy and professional look.",
+          "descrizione_completa": "A clean CV with room for a photo, for a tidy and professional look.\nIncludes templates for Word and Canva, a photo frame, 3 colour schemes.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-creativo-canva",
+      "nome": "CV creativo per Canva",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 790,
+      "descrizione": "Un CV con più personalità per chi lavora in grafica, comunicazione e social media.",
+      "descrizione_completa": "Un CV con più personalità per chi lavora in grafica, comunicazione e social media.\nInclude 4 modelli Canva modificabili, palette colori, istruzioni per esportare in PDF.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Creative CV template for Canva",
+          "descrizione": "A CV with more personality for people working in design, communication and social media.",
+          "descrizione_completa": "A CV with more personality for people working in design, communication and social media.\nIncludes 4 editable Canva templates, colour palettes, instructions for exporting to PDF.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-sanita-infermiere",
+      "nome": "CV per infermieri e professioni sanitarie",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 890,
+      "descrizione": "Modello di CV con spazio per titoli, abilitazioni, reparti ed esperienze sul campo.",
+      "descrizione_completa": "Modello di CV con spazio per titoli, abilitazioni, reparti ed esperienze sul campo.\nInclude modello in Word e Google Docs, sezioni per titoli e corsi, guida alla compilazione.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CV template for nurses and healthcare professionals",
+          "descrizione": "A CV template with room for qualifications, licences, wards and hands-on experience.",
+          "descrizione_completa": "A CV template with room for qualifications, licences, wards and hands-on experience.\nIncludes a template for Word and Google Docs, sections for qualifications and courses, a writing guide.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-sviluppatore-it",
+      "nome": "CV per sviluppatori e profili IT",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 890,
+      "descrizione": "Un CV con sezioni per competenze tecniche, progetti e link al tuo profilo di codice.",
+      "descrizione_completa": "Un CV con sezioni per competenze tecniche, progetti e link al tuo profilo di codice.\nInclude modello da 1 e 2 pagine in Word e Google Docs, sezione progetti, layout leggibile dai software ATS.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CV template for developers and IT profiles",
+          "descrizione": "A CV with sections for technical skills, projects and links to your code profile.",
+          "descrizione_completa": "A CV with sections for technical skills, projects and links to your code profile.\nIncludes 1-page and 2-page templates for Word and Google Docs, a projects section, an ATS-readable layout.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-manager",
+      "nome": "CV per manager e quadri",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Modello di CV da 2 pagine che mette i risultati ottenuti davanti alle mansioni svolte.",
+      "descrizione_completa": "Modello di CV da 2 pagine che mette i risultati ottenuti davanti alle mansioni svolte.\nInclude modello in Word e Google Docs, sezione risultati e KPI, guida per scrivere il profilo.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CV template for managers and executives",
+          "descrizione": "A 2-page CV template that puts achievements ahead of duties.",
+          "descrizione_completa": "A 2-page CV template that puts achievements ahead of duties.\nIncludes a template for Word and Google Docs, a results and KPI section, a guide to writing the profile.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-cambio-carriera",
+      "nome": "CV per cambiare settore",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 990,
+      "descrizione": "Un CV organizzato per competenze trasferibili, utile quando cambi lavoro o ambito.",
+      "descrizione_completa": "Un CV organizzato per competenze trasferibili, utile quando cambi lavoro o ambito.\nInclude modello in Word e Google Docs, esempi di profilo, guida alle competenze trasferibili.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CV template for changing careers",
+          "descrizione": "A CV organised around transferable skills, useful when you change job or field.",
+          "descrizione_completa": "A CV organised around transferable skills, useful when you change job or field.\nIncludes a template for Word and Google Docs, sample profiles, a guide to transferable skills.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-turismo-ristorazione",
+      "nome": "CV per ristorazione, hotel e turismo",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 690,
+      "descrizione": "Modello di CV per sala, cucina, reception e lavori stagionali.",
+      "descrizione_completa": "Modello di CV per sala, cucina, reception e lavori stagionali.\nInclude modello in Word e Google Docs, sezione lingue e stagioni lavorate, istruzioni di modifica.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CV template for hospitality and tourism",
+          "descrizione": "A CV template for front of house, kitchen, reception and seasonal work.",
+          "descrizione_completa": "A CV template for front of house, kitchen, reception and seasonal work.\nIncludes a template for Word and Google Docs, a languages and seasons worked section, editing instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-commesso-vendita",
+      "nome": "CV per commessi e addetti alla vendita",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 590,
+      "descrizione": "Un CV semplice per negozi, supermercati e grande distribuzione.",
+      "descrizione_completa": "Un CV semplice per negozi, supermercati e grande distribuzione.\nInclude modello in Word e Google Docs, sezione disponibilità e turni, esempi di frasi.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CV template for retail and sales assistants",
+          "descrizione": "A simple CV for shops, supermarkets and large retail.",
+          "descrizione_completa": "A simple CV for shops, supermarkets and large retail.\nIncludes a template for Word and Google Docs, an availability and shifts section, sample phrases.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-operaio-tecnico",
+      "nome": "CV per operai, artigiani e tecnici",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 590,
+      "descrizione": "Modello di CV con spazio per patentini, corsi sulla sicurezza e macchinari conosciuti.",
+      "descrizione_completa": "Modello di CV con spazio per patentini, corsi sulla sicurezza e macchinari conosciuti.\nInclude modello in Word e Google Docs, sezione patentini e abilitazioni, istruzioni di modifica.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CV template for tradespeople and technicians",
+          "descrizione": "A CV template with room for certificates, safety courses and machinery you can operate.",
+          "descrizione_completa": "A CV template with room for certificates, safety courses and machinery you can operate.\nIncludes a template for Word and Google Docs, a certificates and licences section, editing instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-inglese-estero",
+      "nome": "CV in inglese per lavorare all'estero",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 890,
+      "descrizione": "Modello di CV in inglese con struttura internazionale, già pronto da compilare.",
+      "descrizione_completa": "Modello di CV in inglese con struttura internazionale, già pronto da compilare.\nInclude modello in Word e Google Docs in inglese, frasi di esempio, elenco dei verbi d'azione.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "English CV template for working abroad",
+          "descrizione": "An English CV template with an international structure, ready to fill in.",
+          "descrizione_completa": "An English CV template with an international structure, ready to fill in.\nIncludes an English template for Word and Google Docs, sample phrases, a list of action verbs.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-bilingue-it-en",
+      "nome": "CV bilingue italiano e inglese",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 990,
+      "descrizione": "Due versioni dello stesso CV, in italiano e in inglese, con identico stile.",
+      "descrizione_completa": "Due versioni dello stesso CV, in italiano e in inglese, con identico stile.\nInclude 2 modelli in Word e Google Docs (IT e EN), tabella di corrispondenza dei titoli delle sezioni.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Bilingual Italian and English CV",
+          "descrizione": "Two versions of the same CV, in Italian and English, in an identical style.",
+          "descrizione_completa": "Two versions of the same CV, in Italian and English, in an identical style.\nIncludes 2 templates for Word and Google Docs (IT and EN), a table matching section titles in both languages.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-tedesco-lebenslauf",
+      "nome": "Modello di CV in tedesco (Lebenslauf)",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 790,
+      "descrizione": "Un Lebenslauf già impostato per candidarsi in Germania, Austria e Svizzera tedesca.",
+      "descrizione_completa": "Un Lebenslauf già impostato per candidarsi in Germania, Austria e Svizzera tedesca.\nInclude modello in Word e Google Docs in tedesco, esempio di compilazione, guida alla struttura.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "German CV template (Lebenslauf)",
+          "descrizione": "A Lebenslauf already set up for applying in Germany, Austria and German-speaking Switzerland.",
+          "descrizione_completa": "A Lebenslauf already set up for applying in Germany, Austria and German-speaking Switzerland.\nIncludes a German template for Word and Google Docs, a filled-in example, a structure guide.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "lettera-candidatura-spontanea",
+      "nome": "Lettera di candidatura spontanea",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 490,
+      "descrizione": "Modelli per scrivere alle aziende che non hanno annunci aperti.",
+      "descrizione_completa": "Modelli per scrivere alle aziende che non hanno annunci aperti.\nInclude 8 modelli in Word e Google Docs, versione email breve, guida a chi scrivere.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Speculative application letter templates",
+          "descrizione": "Templates for writing to companies that have no open vacancies.",
+          "descrizione_completa": "Templates for writing to companies that have no open vacancies.\nIncludes 8 templates for Word and Google Docs, a short email version, a guide on who to write to.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "lettera-primo-lavoro",
+      "nome": "Lettera di presentazione per il primo lavoro",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 390,
+      "descrizione": "Modelli di lettera per chi non ha ancora esperienza da raccontare.",
+      "descrizione_completa": "Modelli di lettera per chi non ha ancora esperienza da raccontare.\nInclude 6 modelli in Word e Google Docs, esempi di apertura e chiusura.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Cover letter templates for a first job",
+          "descrizione": "Letter templates for people with no work experience to talk about yet.",
+          "descrizione_completa": "Letter templates for people with no work experience to talk about yet.\nIncludes 6 templates for Word and Google Docs, sample openings and closings.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "email-ringraziamento-colloquio",
+      "nome": "Email di ringraziamento dopo il colloquio",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 390,
+      "descrizione": "Modelli di email breve da inviare dopo un colloquio di lavoro.",
+      "descrizione_completa": "Modelli di email breve da inviare dopo un colloquio di lavoro.\nInclude 10 modelli di email, versioni formale e informale, consigli sui tempi di invio.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Thank-you email after a job interview",
+          "descrizione": "Short email templates to send after a job interview.",
+          "descrizione_completa": "Short email templates to send after a job interview.\nIncludes 10 email templates, formal and informal versions, tips on when to send.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "tracker-candidature-excel",
+      "nome": "Tracker candidature in Excel e Google Sheets",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 490,
+      "descrizione": "Un foglio per segnare dove ti sei candidato, a che punto sei e quando richiamare.",
+      "descrizione_completa": "Un foglio per segnare dove ti sei candidato, a che punto sei e quando richiamare.\nInclude file Excel e Google Sheets, stati con colori, promemoria dei follow-up.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Job application tracker for Excel and Google Sheets",
+          "descrizione": "A spreadsheet to record where you applied, where you stand and when to follow up.",
+          "descrizione_completa": "A spreadsheet to record where you applied, where you stand and when to follow up.\nIncludes Excel and Google Sheets files, colour-coded statuses, follow-up reminders.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "tracker-candidature-notion",
+      "nome": "Tracker candidature per Notion",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 590,
+      "descrizione": "Una pagina Notion per gestire annunci, colloqui e contatti in un solo posto.",
+      "descrizione_completa": "Una pagina Notion per gestire annunci, colloqui e contatti in un solo posto.\nInclude template Notion duplicabile, vista a bacheca e a tabella, istruzioni.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Job application tracker for Notion",
+          "descrizione": "A Notion page to manage listings, interviews and contacts in one place.",
+          "descrizione_completa": "A Notion page to manage listings, interviews and contacts in one place.\nIncludes a duplicable Notion template, board and table views, instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "kit-colloquio",
+      "nome": "Kit colloquio: domande e preparazione",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 790,
+      "descrizione": "Schede stampabili per prepararti alle domande più comuni di un colloquio.",
+      "descrizione_completa": "Schede stampabili per prepararti alle domande più comuni di un colloquio.\nInclude PDF stampabile A4, schede domande e risposte da compilare, checklist del giorno prima.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Job interview prep kit",
+          "descrizione": "Printable sheets to prepare for the most common interview questions.",
+          "descrizione_completa": "Printable sheets to prepare for the most common interview questions.\nIncludes a printable A4 PDF, question and answer sheets to fill in, a day-before checklist.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "planner-ricerca-lavoro",
+      "nome": "Planner stampabile per la ricerca del lavoro",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 490,
+      "descrizione": "Un planner settimanale per organizzare candidature, obiettivi e contatti.",
+      "descrizione_completa": "Un planner settimanale per organizzare candidature, obiettivi e contatti.\nInclude PDF stampabile A4 e A5, pagine settimanali, elenco contatti.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Printable job search planner",
+          "descrizione": "A weekly planner to organise applications, goals and contacts.",
+          "descrizione_completa": "A weekly planner to organise applications, goals and contacts.\nIncludes a printable A4 and A5 PDF, weekly pages, a contacts list.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "kit-linkedin",
+      "nome": "Kit LinkedIn: banner, titolo e riassunto",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 990,
+      "descrizione": "Modelli per curare il profilo LinkedIn senza partire da una pagina bianca.",
+      "descrizione_completa": "Modelli per curare il profilo LinkedIn senza partire da una pagina bianca.\nInclude banner Canva modificabili, schemi per titolo e sezione Informazioni, esempi di compilazione.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "LinkedIn profile kit: banners, headline and summary",
+          "descrizione": "Templates to polish your LinkedIn profile without starting from a blank page.",
+          "descrizione_completa": "Templates to polish your LinkedIn profile without starting from a blank page.\nIncludes editable Canva banners, outlines for the headline and About section, filled-in examples.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "biglietti-visita-freelance",
+      "nome": "Biglietti da visita per freelance (Canva)",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 590,
+      "descrizione": "Modelli di biglietto da visita da personalizzare e stampare.",
+      "descrizione_completa": "Modelli di biglietto da visita da personalizzare e stampare.\nInclude 10 modelli Canva fronte e retro, formato standard, istruzioni di stampa.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Business card templates for freelancers (Canva)",
+          "descrizione": "Business card templates to customise and print.",
+          "descrizione_completa": "Business card templates to customise and print.\nIncludes 10 front and back Canva templates, standard size, printing instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "preventivo-freelance",
+      "nome": "Modello di preventivo e proposta per freelance",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 790,
+      "descrizione": "Un documento ordinato per presentare servizi, tempi e costi ai clienti.",
+      "descrizione_completa": "Un documento ordinato per presentare servizi, tempi e costi ai clienti.\nInclude modelli Word, Google Docs e Canva, pagina condizioni, esempio compilato.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Quote and proposal template for freelancers",
+          "descrizione": "A tidy document to present services, timing and costs to clients.",
+          "descrizione_completa": "A tidy document to present services, timing and costs to clients.\nIncludes templates for Word, Google Docs and Canva, a terms page, a filled-in example.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "portfolio-one-page-canva",
+      "nome": "Portfolio a pagina singola per Canva",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 690,
+      "descrizione": "Un portfolio da una pagina per mostrare i tuoi lavori in un PDF o in un link.",
+      "descrizione_completa": "Un portfolio da una pagina per mostrare i tuoi lavori in un PDF o in un link.\nInclude 3 modelli Canva, spazio per 6 progetti, istruzioni per esportare e condividere.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "One-page portfolio template for Canva",
+          "descrizione": "A one-page portfolio to show your work as a PDF or a link.",
+          "descrizione_completa": "A one-page portfolio to show your work as a PDF or a link.\nIncludes 3 Canva templates, room for 6 projects, instructions for exporting and sharing.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "bundle-cv-situazioni",
+      "nome": "Bundle CV: modelli per ogni situazione",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 1990,
+      "descrizione": "Una raccolta di modelli di CV tra cui scegliere in base al tuo momento professionale.",
+      "descrizione_completa": "Una raccolta di modelli di CV tra cui scegliere in base al tuo momento professionale.\nInclude più modelli di CV in Word, Google Docs e Canva (primo lavoro, ATS, creativo, cambio carriera), guida alla scelta.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CV bundle: templates for every situation",
+          "descrizione": "A collection of CV templates to choose from depending on your career stage.",
+          "descrizione_completa": "A collection of CV templates to choose from depending on your career stage.\nIncludes several CV templates for Word, Google Docs and Canva (first job, ATS, creative, career change), a guide to choosing.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "bundle-ricerca-lavoro",
+      "nome": "Bundle ricerca lavoro: CV, lettera, tracker e colloquio",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 2490,
+      "descrizione": "Tutto per cercare lavoro in un unico pacchetto, con uno stile coordinato.",
+      "descrizione_completa": "Tutto per cercare lavoro in un unico pacchetto, con uno stile coordinato.\nInclude CV ATS, lettera di presentazione, tracker candidature, kit colloquio, planner stampabile.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Job search bundle: CV, letter, tracker and interview prep",
+          "descrizione": "Everything for a job search in one package, in a matching style.",
+          "descrizione_completa": "Everything for a job search in one package, in a matching style.\nIncludes an ATS CV, a cover letter, an application tracker, an interview kit, a printable planner.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
     }
   ]
 }
