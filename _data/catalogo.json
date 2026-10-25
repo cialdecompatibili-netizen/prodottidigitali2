@@ -1418,6 +1418,63 @@
           "descrizione_completa": "A register of the yarn at home with labels to print for balls and boxes.\nA register with colour, fibre, yardage and quantity for each ball, plus labels to print for boxes and baskets, in PDF.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
         }
       }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-ats",
+      "nome": "CV ATS-friendly in 1 e 2 pagine",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 990,
+      "descrizione": "Un CV dal layout semplice, che i software di selezione leggono senza errori.",
+      "descrizione_completa": "Un CV dal layout semplice, che i software di selezione leggono senza errori.\nInclude versione da 1 e 2 pagine in Word e Google Docs, formato A4, guida alle parole chiave.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "ATS-friendly CV template, 1 and 2 pages",
+          "descrizione": "A CV with a simple layout that applicant tracking systems read without errors.",
+          "descrizione_completa": "A CV with a simple layout that applicant tracking systems read without errors.\nIncludes 1-page and 2-page versions for Word and Google Docs, A4 format, a keyword guide.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "kit-candidatura",
+      "nome": "Kit candidatura: CV, lettera e referenze",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 1990,
+      "descrizione": "Tutto il necessario per candidarti: CV, lettera di presentazione e pagina referenze con lo stesso stile.",
+      "descrizione_completa": "Tutto il necessario per candidarti: CV, lettera di presentazione e pagina referenze con lo stesso stile.\nInclude CV da 1 e 2 pagine, lettera di presentazione, pagina referenze, guida in PDF.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Job application kit: CV, letter and references",
+          "descrizione": "Everything you need to apply: CV, cover letter and references page in one matching style.",
+          "descrizione_completa": "Everything you need to apply: CV, cover letter and references page in one matching style.\nIncludes 1-page and 2-page CVs, a cover letter, a references page, a PDF guide.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cv-canva-docs",
+      "nome": "Modelli di CV per Google Docs e Canva",
+      "categoria": "lavoro",
+      "prezzo_centesimi": 790,
+      "descrizione": "Modelli di CV da modificare online, senza installare programmi né font.",
+      "descrizione_completa": "Modelli di CV da modificare online, senza installare programmi né font.\nInclude modelli per Google Docs e Canva, istruzioni di modifica.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CV templates for Google Docs and Canva",
+          "descrizione": "CV templates you edit online, with nothing to install and no fonts to download.",
+          "descrizione_completa": "CV templates you edit online, with nothing to install and no fonts to download.\nIncludes templates for Google Docs and Canva, editing instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
     }
   ]
 }
