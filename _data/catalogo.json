@@ -2007,6 +2007,234 @@
           "descrizione_completa": "Everything for a job search in one package, in a matching style.\nIncludes an ATS CV, a cover letter, an application tracker, an interview kit, a printable planner.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
         }
       }
+    },
+    {
+      "tipo": "digitale",
+      "id": "uncinetto-amigurumi-animali",
+      "nome": "Pacchetto schemi amigurumi di animali",
+      "categoria": "uncinetto",
+      "prezzo_centesimi": 490,
+      "descrizione": "Una raccolta di schemi amigurumi di animali, da realizzare anche in più misure.",
+      "descrizione_completa": "Una raccolta di schemi amigurumi di animali, da realizzare anche in più misure.\nInclude 10 schemi in PDF con foto dei passaggi, tabella dei filati e dei ganci, elenco dei punti usati.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Crochet animal amigurumi patterns bundle",
+          "descrizione": "A collection of animal amigurumi patterns, which you can crochet in several sizes.",
+          "descrizione_completa": "A collection of animal amigurumi patterns, which you can crochet in several sizes.\nIncludes 10 PDF patterns with step photos, a yarn and hook chart, a list of the stitches used.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "uncinetto-mega-bundle",
+      "nome": "Mega pacchetto di schemi all'uncinetto",
+      "categoria": "uncinetto",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Una grande raccolta di schemi in un unico pacchetto, per avere progetti pronti per tutto l'anno.",
+      "descrizione_completa": "Una grande raccolta di schemi in un unico pacchetto, per avere progetti pronti per tutto l'anno.\nInclude 60 schemi in PDF di categorie diverse, indice illustrato, tabella dei materiali.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Mega crochet pattern bundle",
+          "descrizione": "A large collection of patterns in one package, with projects ready for the whole year.",
+          "descrizione_completa": "A large collection of patterns in one package, with projects ready for the whole year.\nIncludes 60 PDF patterns across several categories, an illustrated index, a materials chart.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "uncinetto-natale",
+      "nome": "Decorazioni natalizie all'uncinetto",
+      "categoria": "uncinetto",
+      "prezzo_centesimi": 390,
+      "descrizione": "Schemi di decorazioni per l'albero e per la casa, da preparare con anticipo per le feste.",
+      "descrizione_completa": "Schemi di decorazioni per l'albero e per la casa, da preparare con anticipo per le feste.\nInclude 10 schemi in PDF (palline, stelle, ghirlande), tabella dei materiali, foto dei passaggi.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Christmas crochet decoration patterns",
+          "descrizione": "Patterns for tree and home decorations, to make ahead of the holidays.",
+          "descrizione_completa": "Patterns for tree and home decorations, to make ahead of the holidays.\nIncludes 10 PDF patterns (baubles, stars, garlands), a materials chart, step photos.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "uncinetto-portachiavi-mini",
+      "nome": "Portachiavi amigurumi: schemi mini",
+      "categoria": "uncinetto",
+      "prezzo_centesimi": 690,
+      "descrizione": "Piccoli schemi veloci da realizzare con gli avanzi di filato, perfetti da regalare.",
+      "descrizione_completa": "Piccoli schemi veloci da realizzare con gli avanzi di filato, perfetti da regalare.\nInclude 12 schemi mini in PDF, lista dei materiali, istruzioni per montare l'anello portachiavi.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Amigurumi keychain patterns",
+          "descrizione": "Small, quick patterns to make with leftover yarn, ideal as gifts.",
+          "descrizione_completa": "Small, quick patterns to make with leftover yarn, ideal as gifts.\nIncludes 12 mini PDF patterns, a materials list, instructions for attaching the key ring.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "uncinetto-borse",
+      "nome": "Schemi per borse all'uncinetto",
+      "categoria": "uncinetto",
+      "prezzo_centesimi": 390,
+      "descrizione": "Borse a tracolla, tote e borsette da realizzare in diverse misure.",
+      "descrizione_completa": "Borse a tracolla, tote e borsette da realizzare in diverse misure.\nInclude 6 schemi in PDF in 3 misure, tabella dei filati, foto della rifinitura e dei manici.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Crochet bag patterns",
+          "descrizione": "Shoulder bags, totes and small bags in several sizes.",
+          "descrizione_completa": "Shoulder bags, totes and small bags in several sizes.\nIncludes 6 PDF patterns in 3 sizes, a yarn chart, photos of the finishing and handles.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "uncinetto-berretti",
+      "nome": "Berretti, fasce e scaldacollo all'uncinetto",
+      "categoria": "uncinetto",
+      "prezzo_centesimi": 390,
+      "descrizione": "Schemi di accessori per l'inverno, adatti anche a chi è alle prime armi.",
+      "descrizione_completa": "Schemi di accessori per l'inverno, adatti anche a chi è alle prime armi.\nInclude 8 schemi in PDF in più taglie (bambino e adulto), tabella delle misure, foto dei passaggi.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Crochet beanies, headbands and neck warmers",
+          "descrizione": "Patterns for winter accessories, suitable even for beginners.",
+          "descrizione_completa": "Patterns for winter accessories, suitable even for beginners.\nIncludes 8 PDF patterns in several sizes (child and adult), a size chart, step photos.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "uncinetto-maglioni",
+      "nome": "Maglioni e cardigan all'uncinetto",
+      "categoria": "uncinetto",
+      "prezzo_centesimi": 890,
+      "descrizione": "Capi da indossare, con schemi chiari e tabelle delle taglie.",
+      "descrizione_completa": "Capi da indossare, con schemi chiari e tabelle delle taglie.\nInclude 4 schemi in PDF dalla S alla XL, tabella delle misure, consigli sul filato.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Crochet sweater and cardigan patterns",
+          "descrizione": "Wearable garments with clear patterns and size charts.",
+          "descrizione_completa": "Wearable garments with clear patterns and size charts.\nIncludes 4 PDF patterns from S to XL, a measurement chart, yarn tips.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "uncinetto-neonato",
+      "nome": "Schemi uncinetto per neonati",
+      "categoria": "uncinetto",
+      "prezzo_centesimi": 790,
+      "descrizione": "Copertine, lovey e piccoli capi per il corredino, con istruzioni chiare.",
+      "descrizione_completa": "Copertine, lovey e piccoli capi per il corredino, con istruzioni chiare.\nInclude 8 schemi in PDF, tabella delle taglie neonato, elenco dei filati morbidi consigliati.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Baby crochet patterns",
+          "descrizione": "Blankets, loveys and small garments for a layette, with clear instructions.",
+          "descrizione_completa": "Blankets, loveys and small garments for a layette, with clear instructions.\nIncludes 8 PDF patterns, a newborn size chart, a list of recommended soft yarns.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "uncinetto-sottobicchieri",
+      "nome": "Sottobicchieri e centrotavola all'uncinetto",
+      "categoria": "uncinetto",
+      "prezzo_centesimi": 390,
+      "descrizione": "Schemi per la tavola: sottobicchieri, centrotavola e piccoli tovaglioli decorativi.",
+      "descrizione_completa": "Schemi per la tavola: sottobicchieri, centrotavola e piccoli tovaglioli decorativi.\nInclude 10 schemi in PDF, foto dei passaggi, indicazioni per l'inamidatura.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Crochet coasters and table centrepieces",
+          "descrizione": "Patterns for the table: coasters, centrepieces and small decorative doilies.",
+          "descrizione_completa": "Patterns for the table: coasters, centrepieces and small decorative doilies.\nIncludes 10 PDF patterns, step photos, starching tips.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "uncinetto-halloween",
+      "nome": "Schemi uncinetto per Halloween",
+      "categoria": "uncinetto",
+      "prezzo_centesimi": 390,
+      "descrizione": "Zucche, pipistrelli e fantasmini da realizzare per decorare la casa a ottobre.",
+      "descrizione_completa": "Zucche, pipistrelli e fantasmini da realizzare per decorare la casa a ottobre.\nInclude 8 schemi in PDF, foto dei passaggi, lista dei materiali.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Halloween crochet patterns",
+          "descrizione": "Pumpkins, bats and little ghosts to crochet for October decorating.",
+          "descrizione_completa": "Pumpkins, bats and little ghosts to crochet for October decorating.\nIncludes 8 PDF patterns, step photos, a materials list.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "uncinetto-cesti",
+      "nome": "Cestini e contenitori all'uncinetto",
+      "categoria": "uncinetto",
+      "prezzo_centesimi": 990,
+      "descrizione": "Cestini morbidi e contenitori per organizzare casa e cameretta.",
+      "descrizione_completa": "Cestini morbidi e contenitori per organizzare casa e cameretta.\nInclude 6 schemi in PDF in 3 misure, foto dei passaggi, consigli per rinforzare il fondo.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Crochet baskets and organisers",
+          "descrizione": "Soft baskets and storage containers to organise the home and nursery.",
+          "descrizione_completa": "Soft baskets and storage containers to organise the home and nursery.\nIncludes 6 PDF patterns in 3 sizes, step photos, tips for reinforcing the base.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "uncinetto-fiori-parete",
+      "nome": "Fiori e decorazioni da parete all'uncinetto",
+      "categoria": "uncinetto",
+      "prezzo_centesimi": 390,
+      "descrizione": "Fiori, ghirlande e decorazioni per le pareti, da fare con filati diversi.",
+      "descrizione_completa": "Fiori, ghirlande e decorazioni per le pareti, da fare con filati diversi.\nInclude 10 schemi in PDF, foto dei passaggi, idee di composizione e colori.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Crochet flowers and wall decor patterns",
+          "descrizione": "Flowers, garlands and wall decorations to make with different yarns.",
+          "descrizione_completa": "Flowers, garlands and wall decorations to make with different yarns.\nIncludes 10 PDF patterns, step photos, ideas for layouts and colours.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
     }
   ]
 }
