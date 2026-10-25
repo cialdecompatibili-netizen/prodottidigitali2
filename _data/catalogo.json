@@ -2235,6 +2235,139 @@
           "descrizione_completa": "Flowers, garlands and wall decorations to make with different yarns.\nIncludes 10 PDF patterns, step photos, ideas for layouts and colours.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
         }
       }
+    },
+    {
+      "tipo": "digitale",
+      "id": "excel-gestione-progetti",
+      "nome": "Foglio Excel gestione progetti e attività",
+      "categoria": "excel",
+      "prezzo_centesimi": 1090,
+      "descrizione": "Un foglio per seguire progetti e attività: scadenze, responsabili, stato di avanzamento e diagramma di Gantt.",
+      "descrizione_completa": "Un foglio per seguire progetti e attività: scadenze, responsabili, stato di avanzamento e diagramma di Gantt.\nInclude un file Excel con elenco attività, vista Gantt, stato di avanzamento e istruzioni d'uso.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "📋",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Excel project and task tracker",
+          "descrizione": "A spreadsheet to follow projects and tasks: deadlines, owners, progress status and a Gantt chart.",
+          "descrizione_completa": "A spreadsheet to follow projects and tasks: deadlines, owners, progress status and a Gantt chart.\nIncludes an Excel file with a task list, Gantt view, progress status and usage instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "excel-pacchetto-piccola-impresa",
+      "nome": "Pacchetto fogli Excel per la piccola impresa",
+      "categoria": "excel",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Una raccolta di fogli Excel per gestire una piccola attività: contabilità, magazzino, progetti e preventivi.",
+      "descrizione_completa": "Una raccolta di fogli Excel per gestire una piccola attività: contabilità, magazzino, progetti e preventivi.\nInclude più file Excel per contabilità, magazzino, progetti e preventivi, con istruzioni d'uso.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧰",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Excel small business template bundle",
+          "descrizione": "A set of Excel spreadsheets to run a small business: bookkeeping, inventory, projects and quotes.",
+          "descrizione_completa": "A set of Excel spreadsheets to run a small business: bookkeeping, inventory, projects and quotes.\nIncludes several Excel files for bookkeeping, inventory, projects and quotes, with usage instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "excel-debiti-rate",
+      "nome": "Foglio Excel per estinguere debiti e rate",
+      "categoria": "excel",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Un foglio per elencare debiti e rate, vedere quanto manca e simulare quando finirai di pagarli.",
+      "descrizione_completa": "Un foglio per elencare debiti e rate, vedere quanto manca e simulare quando finirai di pagarli.\nInclude un file Excel con elenco debiti, piano di rimborso, grafico dei progressi e istruzioni.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💳",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Excel debt payoff tracker",
+          "descrizione": "A spreadsheet to list debts and instalments, see what is left and simulate when you will finish paying.",
+          "descrizione_completa": "A spreadsheet to list debts and instalments, see what is left and simulate when you will finish paying.\nIncludes an Excel file with a debt list, repayment plan, progress chart and instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "excel-contabilita-piccole-imprese",
+      "nome": "Foglio Excel contabilità per piccole attività",
+      "categoria": "excel",
+      "prezzo_centesimi": 990,
+      "descrizione": "Un foglio per tenere entrate, uscite e margine di una piccola attività, con riepilogo mensile e annuale.",
+      "descrizione_completa": "Un foglio per tenere entrate, uscite e margine di una piccola attività, con riepilogo mensile e annuale.\nInclude un file Excel con prima nota, riepilogo mensile e annuale, grafico entrate e uscite.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "📒",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Excel small business bookkeeping",
+          "descrizione": "A spreadsheet to track income, expenses and margin of a small business, with a monthly and yearly summary.",
+          "descrizione_completa": "A spreadsheet to track income, expenses and margin of a small business, with a monthly and yearly summary.\nIncludes an Excel file with a ledger, monthly and yearly summary, income and expense chart.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "excel-calendario-planner",
+      "nome": "Calendario e planner mensile Excel",
+      "categoria": "excel",
+      "prezzo_centesimi": 490,
+      "descrizione": "Un calendario mensile che si aggiorna da solo, con spazio per attività e appuntamenti.",
+      "descrizione_completa": "Un calendario mensile che si aggiorna da solo, con spazio per attività e appuntamenti.\nInclude un file Excel con calendario perpetuo, elenco attività e istruzioni d'uso.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🗓️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Excel monthly calendar planner",
+          "descrizione": "A monthly calendar that updates itself, with space for tasks and appointments.",
+          "descrizione_completa": "A monthly calendar that updates itself, with space for tasks and appointments.\nIncludes an Excel file with a perpetual calendar, task list and usage instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "excel-dashboard",
+      "nome": "Dashboard Excel vendite e KPI",
+      "categoria": "excel",
+      "prezzo_centesimi": 990,
+      "descrizione": "Una dashboard per vedere vendite e indicatori principali in un colpo d'occhio, che si aggiorna con i tuoi dati.",
+      "descrizione_completa": "Una dashboard per vedere vendite e indicatori principali in un colpo d'occhio, che si aggiorna con i tuoi dati.\nInclude un file Excel con foglio dati, dashboard con grafici e istruzioni per inserire i tuoi numeri.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "📊",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Excel sales and KPI dashboard",
+          "descrizione": "A dashboard to see sales and key indicators at a glance, updating with your own data.",
+          "descrizione_completa": "A dashboard to see sales and key indicators at a glance, updating with your own data.\nIncludes an Excel file with a data sheet, a dashboard with charts and instructions to enter your numbers.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "excel-matrimonio",
+      "nome": "Foglio Excel budget e organizzazione matrimonio",
+      "categoria": "excel",
+      "prezzo_centesimi": 1390,
+      "descrizione": "Un foglio per tenere sotto controllo budget, fornitori, invitati e scadenze del matrimonio.",
+      "descrizione_completa": "Un foglio per tenere sotto controllo budget, fornitori, invitati e scadenze del matrimonio.\nInclude un file Excel con budget per voce, elenco fornitori, lista invitati e calendario delle scadenze.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💍",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Excel wedding budget and planner",
+          "descrizione": "A spreadsheet to keep wedding budget, suppliers, guests and deadlines under control.",
+          "descrizione_completa": "A spreadsheet to keep wedding budget, suppliers, guests and deadlines under control.\nIncludes an Excel file with a budget by item, supplier list, guest list and deadline calendar.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
     }
   ]
 }
