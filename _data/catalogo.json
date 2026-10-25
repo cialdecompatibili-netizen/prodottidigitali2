@@ -2368,6 +2368,120 @@
           "descrizione_completa": "A spreadsheet to keep wedding budget, suppliers, guests and deadlines under control.\nIncludes an Excel file with a budget by item, supplier list, guest list and deadline calendar.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
         }
       }
+    },
+    {
+      "tipo": "digitale",
+      "id": "sheets-budget-stipendio",
+      "nome": "Budget per stipendio Google Fogli",
+      "categoria": "sheets",
+      "prezzo_centesimi": 690,
+      "descrizione": "Un foglio che divide ogni stipendio tra spese fisse, risparmio e spese variabili, anche con stipendi ogni due settimane.",
+      "descrizione_completa": "Un foglio che divide ogni stipendio tra spese fisse, risparmio e spese variabili, anche con stipendi ogni due settimane.\nInclude un file Google Fogli con budget per stipendio, riepilogo mensile e istruzioni d'uso.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "💵",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Google Sheets paycheck budget",
+          "descrizione": "A spreadsheet that splits each paycheck between fixed costs, savings and variable spending, including biweekly pay.",
+          "descrizione_completa": "A spreadsheet that splits each paycheck between fixed costs, savings and variable spending, including biweekly pay.\nIncludes a Google Sheets file with a budget per paycheck, a monthly summary and usage instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "sheets-budget-annuale",
+      "nome": "Budget annuale con dashboard Google Fogli",
+      "categoria": "sheets",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Un budget per tutto l'anno con riepilogo mese per mese e una dashboard con i grafici di entrate, spese e risparmio.",
+      "descrizione_completa": "Un budget per tutto l'anno con riepilogo mese per mese e una dashboard con i grafici di entrate, spese e risparmio.\nInclude un file Google Fogli con budget annuale, vista mensile, dashboard con grafici e istruzioni.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "📈",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Google Sheets annual budget with dashboard",
+          "descrizione": "A budget for the whole year with a month-by-month summary and a dashboard charting income, spending and savings.",
+          "descrizione_completa": "A budget for the whole year with a month-by-month summary and a dashboard charting income, spending and savings.\nIncludes a Google Sheets file with an annual budget, monthly view, dashboard with charts and instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "sheets-life-planner",
+      "nome": "Planner della vita Google Fogli",
+      "categoria": "sheets",
+      "prezzo_centesimi": 1190,
+      "descrizione": "Un unico foglio per organizzare giornate, obiettivi, abitudini e spese, con tema chiaro e scuro.",
+      "descrizione_completa": "Un unico foglio per organizzare giornate, obiettivi, abitudini e spese, con tema chiaro e scuro.\nInclude un file Google Fogli con agenda, obiettivi, tracker abitudini, budget e istruzioni.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🌿",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Google Sheets life planner",
+          "descrizione": "A single spreadsheet to organise your days, goals, habits and spending, with light and dark themes.",
+          "descrizione_completa": "A single spreadsheet to organise your days, goals, habits and spending, with light and dark themes.\nIncludes a Google Sheets file with a daily planner, goals, habit tracker, budget and instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "sheets-scadenzario-bollette",
+      "nome": "Scadenzario bollette e spese fisse Google Fogli",
+      "categoria": "sheets",
+      "prezzo_centesimi": 1090,
+      "descrizione": "Un foglio per non dimenticare bollette e spese fisse: scadenze, importi e stato dei pagamenti.",
+      "descrizione_completa": "Un foglio per non dimenticare bollette e spese fisse: scadenze, importi e stato dei pagamenti.\nInclude un file Google Fogli con elenco scadenze, calendario mensile, stato pagamenti e istruzioni.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧾",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Google Sheets bill tracker and due-date calendar",
+          "descrizione": "A spreadsheet to keep track of bills and fixed costs: due dates, amounts and payment status.",
+          "descrizione_completa": "A spreadsheet to keep track of bills and fixed costs: due dates, amounts and payment status.\nIncludes a Google Sheets file with a due-date list, monthly calendar, payment status and instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "sheets-pacchetto-fogli",
+      "nome": "Pacchetto modelli Google Fogli per la vita e il lavoro",
+      "categoria": "sheets",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Una raccolta di modelli Google Fogli: budget, planner, scadenzario e calendario editoriale.",
+      "descrizione_completa": "Una raccolta di modelli Google Fogli: budget, planner, scadenzario e calendario editoriale.\nInclude più file Google Fogli per budget, planner, scadenze e calendario editoriale, con istruzioni d'uso.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🧰",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Google Sheets template bundle for life and work",
+          "descrizione": "A set of Google Sheets templates: budget, planner, bill tracker and content calendar.",
+          "descrizione_completa": "A set of Google Sheets templates: budget, planner, bill tracker and content calendar.\nIncludes several Google Sheets files for budget, planner, due dates and content calendar, with usage instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "sheets-planner-settimanale",
+      "nome": "Planner giornaliero e settimanale Google Fogli",
+      "categoria": "sheets",
+      "prezzo_centesimi": 1190,
+      "descrizione": "Un planner per organizzare giorni e settimane: attività, priorità e appuntamenti in un foglio.",
+      "descrizione_completa": "Un planner per organizzare giorni e settimane: attività, priorità e appuntamenti in un foglio.\nInclude un file Google Fogli con vista giornaliera, settimanale e mensile e istruzioni d'uso.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
+      "immagine": "",
+      "icona": "🗒️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Google Sheets daily and weekly planner",
+          "descrizione": "A planner to organise days and weeks: tasks, priorities and appointments in one sheet.",
+          "descrizione_completa": "A planner to organise days and weeks: tasks, priorities and appointments in one sheet.\nIncludes a Google Sheets file with daily, weekly and monthly views and usage instructions.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
+        }
+      }
     }
   ]
 }
