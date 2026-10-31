@@ -44,11 +44,19 @@
    della barra (non sotto il padre), cosi' sta sempre dentro lo schermo e si legge tutta senza scorrere */
 .nv__inner { position: relative; }
 .nv__item--wide { position: static; }
-.nv__dd--wide { left: auto; right: 1rem; width: min(44rem, calc(100vw - 2rem)); columns: 2; column-gap: 0; }
-.nv__dd--wide .nv__dd-item { white-space: normal; break-inside: avoid; }
-.nv__dd--wide .nv__divider { column-span: all; }
+.nv__dd--wide { left: auto; right: 1rem; width: min(44rem, calc(100vw - 2rem)); }
+/* TABELLA 2 COLONNE: griglia che si legge per righe (1 2 / 3 4 / ...), celle tutte uguali e piene.
+   display:grid solo quando la tendina e' aperta (.show), altrimenti resterebbe sempre visibile. */
+.nv__item.show > .nv__dd--wide { display: grid; grid-template-columns: 1fr 1fr; grid-auto-rows: 1fr; align-content: start; }
+.nv__dd--wide .nv__dd-item { white-space: normal; text-align: left; font-weight: inherit; padding: .6rem 1rem; border-bottom: 1px solid #f0f0f0; }
+.nv__dd--wide .nv__dd-item:nth-child(odd) { border-right: 1px solid #f0f0f0; }
+/* separatore e voce finale ("Tutti i prodotti") su tutta la larghezza, sotto la tabella */
+.nv__dd--wide .nv__divider { grid-column: 1 / -1; margin: 0; }
+.nv__dd--wide .nv__dd-item:last-child { grid-column: 1 / -1; text-align: center; font-weight: 600; border-right: 0; border-bottom: 0; }
 /* prima voce della tendina (es. "Tutti i servizi"): centrata, su tutta la larghezza */
 .nv__dd > .nv__dd-item:first-child { text-align: center; font-weight: 600; column-span: all; }
+/* nella tabella a 2 colonne la prima voce e' una cella come le altre (non centrata, non a tutta larghezza) */
+.nv__dd--wide > .nv__dd-item:first-child { text-align: left; font-weight: inherit; }
 
 /* strumenti (lente + carrello) */
 .nv__tools { display: flex; align-items: center; gap: .35rem; padding-left: .35rem; }
@@ -78,6 +86,8 @@
   .nv__item:nth-last-child(-n+3) > .nv__dd { left: auto; right: auto; }
   .nv__dd-item { white-space: normal; padding: .55rem .9rem; }
   .nv__dd--wide { width: auto; columns: 1; right: auto; max-height: none; }
+  .nv__item.show > .nv__dd--wide { grid-template-columns: 1fr; grid-auto-rows: auto; }
+  .nv__dd--wide .nv__dd-item:nth-child(odd) { border-right: 0; }
   .nv__item--wide { position: relative; }
   .nv__tools { padding: .25rem 0; }
 }
@@ -140,6 +150,8 @@ a.nv__dd-item.active, a.nv__dd-item.active:visited, a.nv__dd-item.active:hover {
 .nv--compact .nv__item:nth-last-child(-n+3) > .nv__dd { left: auto; right: auto; }
 .nv--compact .nv__dd-item { white-space: normal; padding: .55rem .9rem; }
 .nv--compact .nv__dd--wide { width: auto; columns: 1; right: auto; max-height: none; }
+.nv--compact .nv__item.show > .nv__dd--wide { grid-template-columns: 1fr; grid-auto-rows: auto; }
+.nv--compact .nv__dd--wide .nv__dd-item:nth-child(odd) { border-right: 0; }
 .nv--compact .nv__item--wide { position: relative; }
 .nv--compact .nv__tools { padding: .25rem 0; }
 .nv--compact .nv__lang-btn { width: 100%; }
