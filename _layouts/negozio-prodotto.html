@@ -11,6 +11,10 @@ PUNTI CRITICI
    il file .md non contiene testi, solo l'id (pid). Le classi nz-* e gli attributi data-* sono letti da assets/js/carrello.js: non rinominarli. Prezzi in centesimi (catalogo.json).
 2) Prodotto assente dal catalogo o con visibile:false = messaggio "non disponibile" (la pagina esiste ma e' vuota). E-commerce spento = idem.
 3) Classi nz-* e data-* sono lette da assets/js/carrello.js: non rinominarle.
+4) IMMAGINE PER LINGUA: la foto si legge da catalogo.json > prodotti[].tr.<lingua>.immagine, con ripiego su prodotti[].immagine (stesso schema di nome e descrizione).
+   Serve per i prodotti che hanno TESTO nella foto (inviti, template con titoli): una foto per lingua (<id>.webp IT + <id>-en.webp EN), disegnata con Pillow in automation/foto_<id>.py
+   (esempio: automation/foto_invito_matrimonio.py). I prodotti SENZA testo nella foto usano il solo campo immagine, uguale per tutte le lingue.
+   Stessa regola in _includes/negozio-riga.html e _includes/masthead.html (miniatura del carrello): se la cambi qui, cambiala in tutti e tre.
 {%- endcomment -%}
 {%- assign nz_lh = '/' -%}{%- if page.lang and page.lang != site.default_lang -%}{%- assign nz_lh = '/' | append: page.lang | append: '/' -%}{%- endif -%}
 {%- assign nz_p = site.data.catalogo.prodotti | where: 'id', page.pid | first -%}
@@ -23,8 +27,8 @@ PUNTI CRITICI
 <nav class="nz-brd" aria-label="Percorso"><a href="{% include shop-url.html k="shop" %}">Negozio</a>{% if nz_c %} &rsaquo; <a href="{% include shop-url.html k="cat" id=nz_c.id %}">{{ nz_c.tr[page.lang].nome | default: nz_c.nome }}</a>{% endif %} &rsaquo; <span>{{ nz_p.tr[page.lang].nome | default: nz_p.nome }}</span></nav>
 <div class="nz-pp-grid">
 <div class="nz-pp-media">
-{%- if nz_p.immagine and nz_p.immagine != '' -%}
-<div class="nz-pp-foto"><img src="{% if nz_p.immagine contains '://' %}{{ nz_p.immagine }}{% else %}{{ '/' | append: nz_p.immagine | relative_url }}{% endif %}" alt="{{ nz_p.tr[page.lang].nome | default: nz_p.nome | escape }}"></div>
+{%- assign nz_img = nz_p.tr[page.lang].immagine | default: nz_p.immagine -%}{%- if nz_img and nz_img != '' -%}
+<div class="nz-pp-foto"><img src="{% if nz_img contains '://' %}{{ nz_img }}{% else %}{{ '/' | append: nz_img | relative_url }}{% endif %}" alt="{{ nz_p.tr[page.lang].nome | default: nz_p.nome | escape }}"></div>
 {%- else -%}
 <div class="nz-pp-foto nz-pp-ph" aria-hidden="true">{{ nz_p.icona }}</div>
 {%- endif -%}

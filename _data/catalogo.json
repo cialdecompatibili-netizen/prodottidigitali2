@@ -667,11 +667,12 @@
       "prezzo_centesimi": 1990,
       "descrizione": "Invito, risposta, menu e segnaposto coordinati e modificabili.",
       "descrizione_completa": "Invito, risposta, menu e segnaposto coordinati e modificabili.\nInclude 8 pezzi in Canva e PDF, 3 palette, guida alla stampa.\nPrezzo una tantum. Pre-ordine: nessun pagamento ora, ti scriviamo quando il prodotto è pronto.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/invito-matrimonio.webp",
       "icona": "💌",
       "visibile": true,
       "tr": {
         "en": {
+          "immagine": "assets/images/prodotti/invito-matrimonio-en.webp",
           "nome": "Wedding invitation and stationery set",
           "descrizione": "Invitation, reply card, menu and place cards, matching and editable.",
           "descrizione_completa": "Invitation, reply card, menu and place cards, matching and editable.\nIncludes 8 pieces in Canva and PDF, 3 palettes, a printing guide.\nOne-off price. Pre-order: no payment now, we will write to you when the product is ready."
