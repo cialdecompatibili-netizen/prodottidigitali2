@@ -15,6 +15,8 @@ PUNTI CRITICI
    Serve per i prodotti che hanno TESTO nella foto (inviti, template con titoli): una foto per lingua (<id>.webp IT + <id>-en.webp EN), disegnata con Pillow in automation/foto_<id>.py
    (esempio: automation/foto_invito_matrimonio.py). I prodotti SENZA testo nella foto usano il solo campo immagine, uguale per tutte le lingue.
    Stessa regola in _includes/negozio-riga.html e _includes/masthead.html (miniatura del carrello): se la cambi qui, cambiala in tutti e tre.
+5) FOTO CLICCABILE: la foto e' un link <a class="nz-pp-zoom" data-lb="prodotto" href="foto">. Il clic apre il lightbox a schermo intero gia' presente nel sito (assets/js/galleria.js + assets/css/galleria.css, classi exlb-*);
+   lo zoom leggero al passaggio del mouse e' in assets/css/negozio.css (.nz-pp-zoom). Non rinominare data-lb: e' l'aggancio al lightbox. Con una sola foto le frecce si nascondono da sole (classe exlb-1).
 {%- endcomment -%}
 {%- assign nz_lh = '/' -%}{%- if page.lang and page.lang != site.default_lang -%}{%- assign nz_lh = '/' | append: page.lang | append: '/' -%}{%- endif -%}
 {%- assign nz_p = site.data.catalogo.prodotti | where: 'id', page.pid | first -%}
@@ -28,7 +30,8 @@ PUNTI CRITICI
 <div class="nz-pp-grid">
 <div class="nz-pp-media">
 {%- assign nz_img = nz_p.tr[page.lang].immagine | default: nz_p.immagine -%}{%- if nz_img and nz_img != '' -%}
-<div class="nz-pp-foto"><img src="{% if nz_img contains '://' %}{{ nz_img }}{% else %}{{ '/' | append: nz_img | relative_url }}{% endif %}" alt="{{ nz_p.tr[page.lang].nome | default: nz_p.nome | escape }}"></div>
+{%- capture nz_imgu -%}{% if nz_img contains '://' %}{{ nz_img }}{% else %}{{ '/' | append: nz_img | relative_url }}{% endif %}{%- endcapture -%}
+<div class="nz-pp-foto"><a class="nz-pp-zoom" href="{{ nz_imgu }}" data-lb="prodotto" data-cap="{{ nz_p.tr[page.lang].nome | default: nz_p.nome | escape }}"><img src="{{ nz_imgu }}" alt="{{ nz_p.tr[page.lang].nome | default: nz_p.nome | escape }}"></a></div>
 {%- else -%}
 <div class="nz-pp-foto nz-pp-ph" aria-hidden="true">{{ nz_p.icona }}</div>
 {%- endif -%}

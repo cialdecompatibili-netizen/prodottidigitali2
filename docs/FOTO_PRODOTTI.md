@@ -65,6 +65,9 @@ Esempio nel catalogo (`_data/catalogo.json`):
 
 Come modificare il catalogo senza rovinarlo: script node con sostituzione di stringa esatta + `JSON.parse` di controllo prima di scrivere (esempi: `claudetemp\collega_planner.js`, `collega_habit.js`, `immagine_per_lingua.js`). Mai riscrivere tutto il JSON a mano. Rispettare gli a capo del file (CRLF/LF).
 
+### Foto cliccabile con zoom (31/10/2026)
+Nella scheda prodotto la foto fa un leggero zoom al passaggio del mouse (solo con mouse, non sul touch) e con il clic si apre a schermo intero (Esc o clic fuori per chiudere). Riusa il lightbox gia' presente in `assets/js/galleria.js` tramite il link `a.nz-pp-zoom` con `data-lb="prodotto"` in `negozio-prodotto.html`; gli stili sono in `negozio.css` (`.nz-pp-zoom`) e `galleria.css` (`.exlb-1`). Vale per tutti i prodotti con foto, senza toccare il catalogo.
+
 ## 5. Pubblicare e verificare
 
 ```

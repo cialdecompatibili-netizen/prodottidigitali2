@@ -35,3 +35,6 @@
 .exlb-x{top:1rem;right:1rem}.exlb-p{left:1rem;top:50%;transform:translateY(-50%)}.exlb-n{right:1rem;top:50%;transform:translateY(-50%)}
 .exg-i a{display:block;width:100%;height:100%}
 .exg-i a:focus-visible{outline:3px solid #eead93;outline-offset:-3px}
+
+/* una sola foto (scheda prodotto): niente frecce; la classe exlb-1 la mette galleria.js */
+.exlb-1 .exlb-p,.exlb-1 .exlb-n{display:none}

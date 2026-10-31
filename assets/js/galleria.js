@@ -1,6 +1,6 @@
 /* GUIDA-SVILUPPO: LIGHTBOX + FILTRI DELLA GALLERIA (classi exlb-* e exg-*). Caricato (defer) da _includes/head/custom.html, stili in assets/css/galleria.css.
    LIGHTBOX: si apre cliccando un link <a data-lb="gruppo" href="foto" data-cap="didascalia">; le foto con lo stesso data-lb formano la serie
-   (frecce, tasti Esc/frecce, swipe). FILTRI: pulsanti in .exg-f con data-f che mostrano/nascondono gli .exg-i in base al loro data-t.
+   (frecce, tasti Esc/frecce, swipe; con una sola foto le frecce si nascondono: classe exlb-1). Usato anche dalla foto della scheda prodotto (data-lb="prodotto"). FILTRI: pulsanti in .exg-f con data-f che mostrano/nascondono gli .exg-i in base al loro data-t.
    Nessuna dipendenza. Se rinomini data-lb / data-cap / exlb-* / exg-* aggiorna anche il CSS e l'HTML che le usa. */
 (function(){
   var box,img,cap,items=[],idx=0;
@@ -30,7 +30,7 @@
     e.preventDefault();build();
     var g=a.getAttribute('data-lb');
     items=[].slice.call(document.querySelectorAll('a[data-lb="'+g+'"]')).filter(function(x){return !x.closest('[hidden]');});
-    idx=Math.max(0,items.indexOf(a));
+    idx=Math.max(0,items.indexOf(a));box.classList.toggle('exlb-1',items.length<2);/* una sola foto (scheda prodotto): CSS nasconde le frecce */
     show();box.classList.add('on');document.documentElement.style.overflow='hidden';
   });
   document.addEventListener('click',function(e){
