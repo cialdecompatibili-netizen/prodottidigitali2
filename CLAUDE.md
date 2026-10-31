@@ -2,6 +2,8 @@
 
 Template Jekyll per GitHub Pages: si clona, si cambia quasi solo `_config.yml` e il sito si adatta (lingua, URL, brand, menu, shop). Obiettivo e stato del lavoro: `PROGETTO_TEMPLATE.md`.
 
+**FOTO DEI PRODOTTI (shop): leggi PRIMA `docs/FOTO_PRODOTTI.md` (procedura completa provata sul pilota: foto senza testo con Gemini, foto con testo per lingua con Pillow, campo `tr.<lingua>.immagine`, pubblicazione e verifica).**
+
 **CREARE UN SITO DA QUESTO TEMPLATE: leggi PRIMA `docs/CLONAZIONE.md` (un comando `nuovo_sito.ps1` + `personalizza_clone.py` fanno colori, logo, sfondo home; un solo commit). Ogni automazione che impari va scritta come script in `automation/` e annotata li' (regola nella sezione 5): obiettivo meno tempo e meno commit per ogni nuovo sito.**
 
 ## Prima di toccare un clone (checklist)
